@@ -1,4 +1,4 @@
 # datetime.github.io
 - your and my datetime
 
-https:www.nicoleyxcv/datetime.github.io
+https://github.com/Nicoleyxcv/datetime.github.io.git
